@@ -11,3 +11,8 @@ step7 : git remote set-url origin git@github-avi:avi0080/repo_name.git
         git remote set-url origin git@github-rajeev:rajeevJha-0700/repo_name.git
 
 step8 : git push -u origin main
+
+once you finish it for the first time , then after every modification in file can be handled by three simple steps 
+ git add "file_path" 
+ git commit -m "message"
+ git push
